@@ -8,7 +8,7 @@ const Header = ()=>{
             justify-between
             items-center
             border-b
-            py-3
+            py-1
             px-3
             sm:px-8
             border-[#D9D9D9]
